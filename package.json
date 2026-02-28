@@ -2,7 +2,7 @@
   "name": "loremscriptum",
   "displayName": "LoremScriptum",
   "description": "A code highlighter for the eso lang LoremScriptum",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "icon": "images/loremscriptumLogo.png",
   "publisher": "BackBencher",
   "engines": {
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/BearWithMePlease/LoremScriptumExtention/tree/master"
+    "url": "https://github.com/BearWithMePlease/LoremScriptumExtension/tree/master"
   },
   "activationEvents": [],
   "main": "./out/extension.js",
