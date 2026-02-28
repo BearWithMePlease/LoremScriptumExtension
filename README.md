@@ -1,6 +1,6 @@
 # LoremScriptum
 
-This is a simple syntax highlighting and "to unicode coverter" Extention for the esolang "LoremScriptum".
+This is a simple syntax highlighting and "to unicode coverter" Extension for the esolang "LoremScriptum".
 
 ## Features
 
@@ -53,6 +53,6 @@ Users appreciate release notes as you update your extension.
 
 ### 1.0.0
 
-Initial release of Extention
+Initial release of Extension
 
 **Enjoy!**
