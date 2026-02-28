@@ -2,7 +2,7 @@
   "name": "loremscriptum",
   "displayName": "LoremScriptum",
   "description": "A code highlighter for the eso lang LoremScriptum",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "icon": "images/loremscriptumLogo.png",
   "publisher": "BackBencher",
   "engines": {
@@ -31,8 +31,12 @@
     "languages": [
       {
         "id": "loremscriptum",
-        "extensions": [".lorem"],
-        "aliases": ["LoremScriptum"],
+        "extensions": [
+          ".lorem"
+        ],
+        "aliases": [
+          "LoremScriptum"
+        ],
         "configuration": "./lang/loremscriptum.language-configuration.json",
         "icon": {
           "light": "images/3232LS.png",
@@ -61,7 +65,6 @@
       }
     ]
   },
-  
   "scripts": {
     "vscode:prepublish": "npm run compile",
     "compile": "tsc -p ./",
